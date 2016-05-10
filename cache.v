@@ -3,7 +3,7 @@
 `define num_of_blocks  128 //no: of entries in cache
 `define mem_addr_width 9   //no: of bits for memory address
 `define data_width     8   //no: of bits for data
-
+// Author: Harsha Vardhan (anant041@umn.edu)
 //models a direct-mapped cache, cache controller and MOESI protocol FSM
 //
 // Cache Block Organization
