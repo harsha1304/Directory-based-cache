@@ -4,6 +4,7 @@
 `define mem_addr_width 9   //no: of bits for memory address
 `define data_width     8   //no: of bits for data
 
+//Author: Harsha Vardhan (anant041@umn.edu)
 //models a directory controller and L2 cache related stuff
 //
 // Directory organization
